@@ -22,5 +22,12 @@ y así poder ayudar al cliente en su toma de desición de negocios,
 estas gràficas se pueden apreciar dentro del documento de Colab "DesafìoTiendaAlura.ipynb",
 o en la carpeta "gràficas".
 
-### 
+### Instrucciones para ejecutar el notebook
+Para poder ejecutar el notebook e interactuar con el documento, se puede descargar el archivo desde 
+Github dentro de la carpeta "/challenge_1_Py_DS.." y luego abrir el archivo desde Google Colab 
+con examinar archivos. O, ir directamente al archivo depositado en Github, abrirlo y hacer click en el botòn
+que se encuentra arriba a la izquierda dentro del documento que dice "Open in Colab". Una vez dentro del archivo en Colab
+se puede ejecutar el programa activando el entorno de trabajo o máquina virtual de google haciendo click en el botón 
+que se encuentra arriba a la derecha "conectar". Cuando se hayan atribuído los valores del entorno prestado por google, 
+al lado de cada casilla de código se puede apreciar un botón de play que ejecutará lo establecido dentro. 
 ￼Enter
